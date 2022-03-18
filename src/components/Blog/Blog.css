@@ -1,0 +1,8 @@
+.author-blog{
+    color: rgb(226, 39, 126);
+    background-color: rgba(137, 43, 226, 0.24);
+    border: 2px solid salmon;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 20px;
+}

@@ -1,0 +1,12 @@
+.todo{
+    background-color: rgba(0, 255, 85, 0.24);
+    padding: 10px;
+    border-radius: 15px;
+    border: 5px solid violet;
+    text-align: left;
+}
+
+.title-color{
+    color: rgb(180, 0, 0);
+    font-weight: bold;
+}
